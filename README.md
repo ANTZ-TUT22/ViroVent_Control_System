@@ -2,22 +2,27 @@
 
 ### MerSETA - ViroVent Control Board's full system model in Matlab &amp; Simulink
 
-### 3_mtr
+### 0_TSE_New
+
+* 
+
+### 1_mtr
 
 * Simple blower motor control model (Alternate between 2 speeds)
 
-### 6_full_sys
-
-* Pressure Sensor + PID + Motor_Contrller (TESTED!)
-
-### 7_PID
+### 2_PID
 
 * Individual PID + motor controller test (without entire system attached)
 
-### SPI_Print
+### 3_ SPI_Print
 
 * Arduino UNO code for directly printing data received from the Control Board
 
-### sys_test
+### 4_PID_Nuc
 
+* Test model with I/O's redefined to match the Nucleo test kit
+
+### ViroVent_01
+
+* Pressure Sensor + PID + Motor_Contrller (TESTED!)
 * New system architecture for TSE model - MUST SEE!!
